@@ -6,13 +6,13 @@ This project utilizes several libraries and frameworks to manage state, handle r
 
 Redux is a predictable state container for JavaScript apps. It helps in managing the state of your application in a predictable way. To install Redux, run the following command:
 
-npm install redux
-npm install react-redux
+npm install redux <br>
+npm install react-redux <br>
 npm install @reduxjs/toolkit
 
 ## Routing
 
-Install these for routing
+To install Routing dependencies, run the following command:
 
 npm install react-router-dom
 
