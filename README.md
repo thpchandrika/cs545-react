@@ -16,6 +16,12 @@ To install Routing dependencies, run the following command:
 
 npm install react-router-dom
 
+## Selenium Testing
+
+Find selenium testing for this project at:
+
+https://github.com/thpchandrika/cs545-react-seleniumtesting
+
 
 
 
