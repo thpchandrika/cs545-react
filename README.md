@@ -20,7 +20,8 @@ npm install react-router-dom
 
 Find selenium testing for this project at:
 
-https://github.com/thpchandrika/cs545-react-seleniumtesting
+https://github.com/thpchandrika/cs545-react-seleniumtesting<br>
+under package withpageobject.producttest
 
 
 
